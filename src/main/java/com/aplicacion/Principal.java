@@ -1,10 +1,10 @@
-package com.uax;
-import com.uax.dominio.Tablero;
-import com.uax.mates.Matematicas;
+package com.aplicacion;
+import com.dominio.Tablero;
+import com.mates.Matematicas;
 
 import java.util.concurrent.TimeUnit;
 
-public class Main {
+public class Principal {
     public static void main(String[] args) {
 
 

@@ -12,7 +12,7 @@
     License.
  */
 
-package com.uax.mates;
+package com.mates;
 
 import java.util.Random;
 

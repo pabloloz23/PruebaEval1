@@ -1,4 +1,4 @@
-package com.uax.dominio;
+package com.dominio;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
