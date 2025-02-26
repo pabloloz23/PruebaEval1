@@ -8,8 +8,6 @@ Este repositorio contiene las implementaciones de las tres prácticas de evaluac
 - [🎮 Práctica 2: Juego de la Vida de Conway](#práctica-2-juego-de-la-vida-de-conway)
 - [🔗 Práctica 3: Distancia entre Dos Grafos](#práctica-3-distancia-entre-dos-grafos)
 - [📦 Instalación](#instalación)
-- [📊 Análisis de Complejidad](#análisis-de-complejidad)
-- [💡 Contribuciones](#contribuciones)
 - [📄 Licencia](#licencia)
 
 ---
@@ -58,9 +56,14 @@ Se implementa un algoritmo para calcular la distancia entre dos grafos, basada e
 
    ```bash
    javac -d bin src/**/*.java
-## 📋 Diagrama de Clases:
 
-   ![Diagrama de Clases](Diagrama de clases.svg)
+## 📄 Licencia  
+
+Este proyecto está licenciado bajo la **Apache License 2.0**. Puedes usar, modificar y distribuir el código libremente, siempre que mantengas la atribución original y respetes los términos de la licencia.  
+
+![Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)  
+
+📜 **Consulta el archivo [`LICENSE`](./LICENSE) para más detalles.**  
 
 
 ![https://github.com/pabloloz23/PruebaEval1.git](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)
