@@ -1,5 +1,6 @@
 package com.pr2;
 
+import com.aplicacion.pr2.Graph;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
